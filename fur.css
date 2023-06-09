@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box
+}
+
+header,footer {
+    border: solid 4px rebeccapurple;
+    background-color: blueviolet;
+    height: 250px;
+}
+
+h1 {
+    font-size: 40px;
+    color: beige;
+    text-decoration: underline
+}
+
+section {height: 500px;
+    border: solid rebeccapurple 4px;
+    background-color: blueviolet
+}
+
+body {
+    text-align: center;
+}

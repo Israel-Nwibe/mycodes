@@ -1,0 +1,17 @@
+header {
+    border: 3px solid skyblue;
+    height: 200px;
+    background-color: beige;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    color: slateblue;
+    text-decoration: underline;
+}
+
+section {
+    background-color: rgb(55, 248, 184);
+    border: 3px solid skyblue
+}
